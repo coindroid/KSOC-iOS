@@ -1114,8 +1114,8 @@
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4fT-s3-WCA">
-                                <rect key="frame" x="16" y="331.33333333333331" width="382" height="73.666666666666686"/>
-                                <string key="text">KickSoccer Coin team will create the virtual platform of agent of Soccer players, where the unique and exclusive method of participation and payment will be the KickSoccer Coin</string>
+                                <rect key="frame" x="16" y="340.33333333333331" width="382" height="55.333333333333314"/>
+                                <string key="text">KickSoccer Coin team will create a virtual soccer platform and a virtual store where soccer fans will be able to purchase products from several clubs and athletes</string>
                                 <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>

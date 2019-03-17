@@ -34,8 +34,8 @@
                     <nil key="highlightedColor"/>
                 </label>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="justified" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="acG-Rs-tKE">
-                    <rect key="frame" x="20" y="494" width="335" height="98"/>
-                    <string key="text">The KickSoccer coin network is two-tiered. The network is composed of the first, staking tier, in which all Kickosoccer coin holders can participate in through staking their KickSoccer coins; and the more exclusive masternode tier.</string>
+                    <rect key="frame" x="20" y="494" width="1582" height="98"/>
+                    <string key="text">The KickSoccer coin network is two-tiered. The network is composed of the first, staking tier, in which all Kickosoccer coin holders can participate in through staking their KickSoccer coins and the more exclusive masternode tier.</string>
                     <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
                     <color key="textColor" red="0.55508846044540405" green="0.44656431674957275" blue="0.19761303067207336" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     <nil key="highlightedColor"/>
@@ -54,6 +54,6 @@
         </view>
     </objects>
     <resources>
-        <image name="imgStep4" width="850.5" height="850.5"/>
+        <image name="imgStep4" width="540" height="540"/>
     </resources>
 </document>

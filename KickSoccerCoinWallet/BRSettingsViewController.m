@@ -557,9 +557,8 @@ _switch_cell:
     [s replaceCharactersInRange:[s.string rangeOfString:@"%net%" options:NSCaseInsensitiveSearch] withString:@"%net% (testnet)"];
 #endif
     [s replaceCharactersInRange:[s.string rangeOfString:@"%ver%" options:NSCaseInsensitiveSearch]
-     withString:[NSString stringWithFormat:@"%@ - %@",
-                 NSBundle.mainBundle.infoDictionary[@"CFBundleShortVersionString"],
-                 NSBundle.mainBundle.infoDictionary[@"CFBundleVersion"]]];
+     withString:[NSString stringWithFormat:@"%@",
+                 NSBundle.mainBundle.infoDictionary[@"CFBundleShortVersionString"]]];
     [s replaceCharactersInRange:[s.string rangeOfString:@"%net%" options:NSCaseInsensitiveSearch] withString:@""];
     l.attributedText = s;
     [l.superview.gestureRecognizers.firstObject addTarget:self action:@selector(about:)];
